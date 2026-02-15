@@ -3,7 +3,6 @@ Hi there! 👋 I’m @chetna-09
 - 🌱 I’m currently learning Python and enhancing my skills in data analytics.  
 - 💞️ I’m looking to collaborate on data-driven projects, app development, and creative design work.  
 - 📫 How to reach me: [Email](chetnabanthia9@gmail.com) | [LinkedIn](https://www.linkedin.com/in/chetna-banthia-23a914240/)  
-- 😄 Pronouns: She/Her  
 - ⚡ Fun fact: I’ve trained in classical dance for 6 years and love merging art with technology!  
 
 <!---
